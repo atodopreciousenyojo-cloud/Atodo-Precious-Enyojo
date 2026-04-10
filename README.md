@@ -1,2 +1,14 @@
-# student_tech_survey_analysis
-This project analyzes the learning patterns, challenges, and resource access of students pursuing technology careers. The goal is to uncover key factors influencing skill development and identify barriers preventing students from progressing in tech.  The dataset contains 300 survey responses from students across different tertiary institutions.
+# Hi, I'm Precious 👋
+
+I am a data analyst passionate about solving real world problems using data.
+
+## 🔧 Tools
+- Excel
+- SQL
+- Power BI
+- Python
+
+## 📊 Projects
+- Student Tech Survey Analysis
+- Poultry Farm Performance Analysis
+- Sales Analysis
